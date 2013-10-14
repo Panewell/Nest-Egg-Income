@@ -1,7 +1,7 @@
 NestEggIncome
 =============
 
-Calculate monthly investment income from:
-Fixed payments, 
-Interest, and 
-Stock dividends
+Calculate monthly investment income from:<br>
+Fixed payments, <br>
+Interest, and <br>
+Stock dividends.
