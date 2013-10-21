@@ -1,5 +1,5 @@
-NestEggIncome
-=============
+Nest-Egg-Income
+===============
 
 Calculate monthly investment income from:<br>
 Fixed payments, <br>
